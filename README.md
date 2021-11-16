@@ -1,4 +1,4 @@
-# ApexFall-Beta2
+# ApexFall
 A mod for r5r which tries to convert everything possible to behave like it does in the titanfall series
 
 
