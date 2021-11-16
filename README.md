@@ -1,6 +1,8 @@
-# ApexFall-Beta2
-A mod for r5r which tries to convert everything possible to behave like it does in the titanfall series
+# ApexFall-Beta3-INDEV
 
+A mod for r5r which tries to convert everything possible to behave like it does in the Titanfall series
+
+/////THIS VERSION ISNT MEANT TO BE HOSTED AS IT IS UNPOLISHED AND UNFINISHED/////
 
 ////////////////////////
 /////// Commands ///////
